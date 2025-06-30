@@ -24,9 +24,9 @@ langgraph==0.3.18
 langsmith==0.3.18
 pinecone==5.4.2
 
-langchain-upstage==0.3.1
-langchain-upstage-community==0.3.1
-langchain-upstage-community-models==0.3.1
+#langchain-upstage==0.3.1
+#langchain-upstage-community==0.3.1
+#langchain-upstage-community-models==0.3.1
 
 seaborn==0.13.2
 matplotlib>=3.7.0
